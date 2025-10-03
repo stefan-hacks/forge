@@ -1,6 +1,6 @@
-# Forge needs a NEW MAINTAINER
+# Forge RESURRECTED
 
-Forge is a GNOME Shell extension that provides tiling/window management **_AND_** is looking for a new owner or maintainer:
+Forge is a GNOME Shell extension that provides tiling/window management **_AND_** is RESURRECTED
 - https://github.com/orgs/forge-ext/discussions/276
 - https://github.com/forge-ext/forge/issues/336
 
